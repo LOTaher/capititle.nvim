@@ -13,7 +13,7 @@ Coming soon...
 return {
 	"lotaher/capititle.nvim",
 	config = function()
-		vim.keymap.set("v", "<leader>ct", vim.cmd.Capititle)
+		vim.keymap.set("v", "<leader>t", vim.cmd.Capititle)
 	end,
 }
 ```
