@@ -9,7 +9,7 @@ Coming soon...
 ## Usage
 
 ```lua
-// lazy.nvim
+-- lazy.nvim
 return {
 	"lotaher/capititle.nvim",
 	config = function()
